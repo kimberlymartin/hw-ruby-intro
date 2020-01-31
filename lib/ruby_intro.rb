@@ -108,6 +108,3 @@ class BookInStock
   end
 
 end
-
-john = BookInStock.new("h",3.1491)
-puts john.price_as_string
